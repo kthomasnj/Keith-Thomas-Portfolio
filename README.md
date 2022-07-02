@@ -1,10 +1,12 @@
 # Keith Thomas Portfolio
 
+![Image of Keith Thomas](./assets/images/bio_pic.png)
+
 ## User Story
 
 * AS AN: Employer
-* I WANT: to view a potential employee's deployed portfolio of work samples
-* SO THAT: * I can review samples of their work and assess whether they're a good candidate for an open position
+* I WANT: To view a potential employee's deployed portfolio of work samples
+* SO THAT: I can review samples of their work and assess whether they're a good candidate for an open position
 
 
 ## Acceptance Criteria
