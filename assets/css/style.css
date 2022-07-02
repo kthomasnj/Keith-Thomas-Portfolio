@@ -2,11 +2,6 @@
     margin: 0;
 }
 
-img {
-    max-width: 100%;
-    max-height: 100%;
-}
-
 nav {
     display: flex;
     justify-content: flex-end;
@@ -39,7 +34,24 @@ header {
 }
 
 #header-image {
+    background-image: url(../images/header-pic.jpg);
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+}
+
+#cool-subtitle {
     position: relative;
+    background-color: grey;
+    top: 80%;
+    left: 88%;
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+    padding-top: 20px;
+    height: 35px;
+    width: 10%;
+    font-size: 10px;
 }
 
 main section {
