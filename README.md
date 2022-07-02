@@ -45,4 +45,4 @@
 
 ![Mock-up work section and contact me section](./assets/images/mock_up_3.png)
 
-(c) 2022 Keith S Thomas
+© 2022 Keith S Thomas
