@@ -61,11 +61,7 @@ main {
 }
 
 main section {
-    display: flex;    
-    flex-direction: column;
-    flex-grow: 1;
-    margin-top: 25px;
-    padding-left: 25px;
+
 }
 
 section article {
@@ -76,6 +72,18 @@ section article {
 section p {
     display:flex;
     padding: 25px;
+}
+
+#work-box {
+  border: 2px dotted grey;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.work-elements {
+   width: 100px;
+   margin: 10px;
+   flex: 1 1 auto;
 }
 
 #contact-me {
@@ -94,6 +102,7 @@ section p {
 footer {
     bottom: 0;
     align-items: center;
+    margin-top: 15px;
     background-color: grey;
     color: white;
 }
