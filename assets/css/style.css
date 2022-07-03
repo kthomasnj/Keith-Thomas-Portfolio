@@ -43,21 +43,39 @@ header {
 #cool-subtitle {
     position: relative;
     background-color: grey;
+    border: 2px solid black;
     top: 80%;
     left: 88%;
     color: white;
-    text-decoration: underline;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding-top: 20px;
     height: 35px;
     width: 10%;
     font-size: 10px;
 }
 
+main {
+    display: flex;
+    flex-direction: column;
+}
+
 main section {
-    background-color: lightgrey;
-    height: 200px;
-    border: 1px solid black;
+    display: flex;    
+    flex-direction: column;
+    flex-grow: 1;
+    margin-top: 25px;
+    padding-left: 25px;
+}
+
+section article {
+    border: 2px solid black;
+    background-color: blue;
+}
+
+section p {
+    display:flex;
+    padding: 25px;
 }
 
 #contact-me {
