@@ -45,4 +45,7 @@
 
 ![Mock-up work section and contact me section](./assets/images/mock_up_3.png)
 
+## Deployed Site
+https://github.com/kthomasnj/Keith-Thomas-Portfolio
+
 © 2022 Keith S Thomas
