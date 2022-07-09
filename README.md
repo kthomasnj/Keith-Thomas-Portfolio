@@ -47,5 +47,6 @@
 
 ## Deployed Site
 https://kthomasnj.github.io/Keith-Thomas-Portfolio/
+![Image of Keith Thomas](./assets/images/live-portfolio.png)
 
 © 2022 Keith S Thomas
